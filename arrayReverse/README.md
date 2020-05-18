@@ -10,11 +10,13 @@ The reverse method reverses an array in place. The first array element becomes t
 
 ## Approach & Efficiency
 I used the for loop array approach cuz in interview they will ask me to do a such thing and i have to use this way cuz ready functions like reverse() not allowed.
-i tested the js code on rapl.it and its working well here is the link :-
-[array-reverse](https://repl.it/repls/InternationalKnobbyPostgres)
-and here JS on repo:-
-[array=reverse](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayReverse/array-reverse.js)
+
+###### i tested the js code on rapl.it and its working well here is the link :-
+[RAPL.IT](https://repl.it/repls/InternationalKnobbyPostgres).
+###### and here JS on repo:-
+[ARRAY-REVERSE.JS](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayReverse/array-reverse.js).
 
 
 ## Solution
-[array-reverse](assets/uml2.png)
+### UML
+[array-reverse](https://drive.google.com/file/d/1M0o25hftc35eju8Utu3E4mnOkYII3vVi/view?usp=sharing)
