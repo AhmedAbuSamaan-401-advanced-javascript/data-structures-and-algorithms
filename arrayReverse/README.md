@@ -13,8 +13,8 @@ I used the for loop array approach cuz in interview they will ask me to do a suc
 i tested the js code on rapl.it and its working well here is the link :-
 [array-reverse](https://repl.it/repls/InternationalKnobbyPostgres)
 and here JS on repo:-
-[array=reverse](./array-reverse.js)
+[array=reverse](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayReverse/array-reverse.js)
 
 
 ## Solution
-![array-reverse](./assets/uml2.png)
+[array-reverse](assets/uml2.png)
