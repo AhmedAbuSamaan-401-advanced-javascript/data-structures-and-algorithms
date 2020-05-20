@@ -1,4 +1,4 @@
-# Reverse an Array
+# Shift an Array
 The Shift method shift an array in place. The value enterd to the array will become in the center , between all values.
 
 
@@ -14,9 +14,9 @@ I used the for loop array approach cuz in interview they will ask me to do a suc
 ###### i tested the js code on rapl.it and its working well here is the link :-
 [RAPL.IT](https://repl.it/repls/DimpledThunderousDaemon).
 ###### and here JS on repo:-
-[ARRAY-REVERSE.JS](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayShift/array-shift.js).
+[ARRAY-SHIFT.JS](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayShift/array-shift.js).
 
 
 ## Solution
 ### UML
-[array-reverse](https://drive.google.com/file/d/1JXYiZTdWRmIcZ8t9_sYKLsiYPGprPrIy/view?usp=sharing)
+[array-shift](https://drive.google.com/file/d/1JXYiZTdWRmIcZ8t9_sYKLsiYPGprPrIy/view?usp=sharing)
