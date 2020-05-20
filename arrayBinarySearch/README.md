@@ -14,7 +14,7 @@ I used the for loop array approach cuz in interview they will ask me to do a suc
 ###### i tested the js code on rapl.it and its working well here is the link :-
 [RAPL.IT](https://repl.it/repls/UnlinedMiserlySystem).
 ###### and here JS on repo:-
-[ARRAY-SEARCH.JS](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/array-binary-search.js).
+[ARRAY-SEARCH.JS](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/blob/master/arrayBinarySearch/array-binary-search.js).
 
 
 ## Solution
