@@ -5,9 +5,11 @@ and then search for the item, at the end will output or print all items/elemetns
 
 ## Challenge
 Create linked list that contains 3 methods 
-1. add : to add node 
-2. includes : Search on value
+1. append : to add node 
+2. insertBefore : Search on value
 3. toString : no arguments and returns a string end with null
+4. insertAfter : to add node after value is enterd
+5. insertBefore : to add node before value is enterd
 
 
 ## Approach & Efficiency
