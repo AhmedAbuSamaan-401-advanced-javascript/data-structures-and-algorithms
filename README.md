@@ -11,6 +11,7 @@ Challenge 5      | linked-list   | [class5](https://github.com/AhmedAbuSamaan-40
 Challenge 6      | ll-insertions   | [class6](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/Data-Structures)
 Challenge 10      | stack-and-queue   | [class10](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/stacksAndQueues)
 Challenge 11      | stack-with-queue   | [class11](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/queueWithStacks)
+Challenge 12      | multiBracketValidation  | [class12](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/fifoAnimalShelter)
 Challenge 13      | multiBracketValidation  | [class13](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/multiBracketValidation)
 
 
