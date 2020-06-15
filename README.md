@@ -15,5 +15,6 @@ Challenge 12      | fifoAnimalShelter  | [class12](https://github.com/AhmedAbuSa
 Challenge 13      | multiBracketValidation  | [class13](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/multiBracketValidation)
 Challenge 15      | tree  | [class15](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/tree)
 Challenge 16      | fizzBuzztree  | [class16](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/fizzBuzzTree)
+Challenge 17      | BinaryTree  | [class17](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/BinaryTree)
 
 
