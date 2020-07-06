@@ -21,5 +21,4 @@ The idea is to use iterative inorder traversal. We use two auxiliary stacks for 
 language used : Java
 
 ## Solution
-![example](tree5.png)
 ![WhiteBoard](uml32new.png)
