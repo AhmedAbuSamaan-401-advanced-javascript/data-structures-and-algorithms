@@ -15,7 +15,7 @@ O(m+n) | O(n)
 ## Solution
 [Code](LeftJoin.java) | [Tests](LeftJoinTest.java)
 
-![White Board to Left Join Problem](assets/leftjoin.png)
+![White Board to Left Join Problem](/assets/leftjoin.png)
 
 ***Test***
  
