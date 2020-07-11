@@ -12,4 +12,4 @@ space: O(n)
 language used : Java
 
 ## Solution
-![WhiteBoard](/codeChg32.png)
+![WhiteBoard](codeChg32.png)
