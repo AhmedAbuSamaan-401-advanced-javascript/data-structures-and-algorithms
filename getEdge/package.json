@@ -1,0 +1,12 @@
+{
+  "name": "getEdge",
+  "version": "1.0.0",
+  "description": "Function that takes in a graph and a list. It determines whether there are edges connecting the first element to the next element, etc. through the end of the list. It will return a tuple of a boolean and the total of all the edges added together. If there is no path from the first element to the last element, the return will be (False, 0).",
+  "main": "get-edge.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
