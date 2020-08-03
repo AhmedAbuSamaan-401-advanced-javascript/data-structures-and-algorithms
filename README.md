@@ -25,6 +25,8 @@ Challenge 18      | quickSort  | [class18](https://github.com/AhmedAbuSamaan-401
 Challenge 19      | repaetedWord  | [class19](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/repeatedWord)
 Challenge 20      | Graph  | [class20](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/graph)
 Challenge 21      | breadthFirst  | [class21](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/breadthFirst)
+Challenge 22      | getEdge  | [class22](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/getEdge)
+Challenge 23      | depthEdge  | [class23](https://github.com/AhmedAbuSamaan-401-advanced-javascript/data-structures-and-algorithms/tree/master/depthFirst)
 
 
 
